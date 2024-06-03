@@ -1,6 +1,6 @@
 # Predicting-Patient-Attendance-for-Medical-Appointments-in-Brazil
 
-Project Overview
+## Project Overview
 This project aims to analyze a dataset of 100,000 medical appointments in Brazil to determine the factors that influence whether patients show up for their scheduled appointments. The dataset includes various patient characteristics and the appointment details. By understanding these factors, we can develop predictive models to improve appointment scheduling and reduce no-show rates.
 
 Dataset Description
